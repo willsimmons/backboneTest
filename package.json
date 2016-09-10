@@ -1,0 +1,23 @@
+{
+  "name": "backbonetest",
+  "version": "1.0.0",
+  "description": "Simple to do app with backbone",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willsimmons/backboneTest.git"
+  },
+  "author": "Will Simmons",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/willsimmons/backboneTest/issues"
+  },
+  "homepage": "https://github.com/willsimmons/backboneTest#readme",
+  "dependencies": {
+    "backbone": "^1.3.3",
+    "jquery": "^3.1.0"
+  }
+}
