@@ -18,11 +18,12 @@
   //instance of the collection
   app.todoList = new app.TodoList();
 
-  //try it out in the console
+  //try it out in the console with the below commands
   // var todoList = new app.TodoList()
   // todoList.create({title: 'Learn Backbone\'s Collection'}); // notice: that `completed` will be set to false by default.
   // var lmodel = new app.Todo({title: 'Learn Models', completed: true});
   // todoList.add(lmodel);
+  // some other backbone commands
   // todoList.pluck('title');     // ["Learn Backbone's Collection", "Learn Models"]
   // todoList.pluck('completed'); // [false, true]
   // JSON.stringify(todoList); 
